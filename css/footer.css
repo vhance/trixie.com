@@ -1,0 +1,37 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 1px;
+    background-color: #9ae0ec;
+    color: #333;
+    width: 100%;
+    max-width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.footer .copyright {
+    font-size: 14px;
+}
+
+.footer .social-icons {
+    font-size: 20px;
+}
+
+.footer .social-icons a {
+    color: #333;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
