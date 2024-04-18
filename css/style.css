@@ -24,6 +24,9 @@
     text-decoration: none;
     margin-right: 10px;
 }
+.social-icons a i {
+        font-size: 14px; /* Adjust this value to change the size */
+    }
 body{
     color: azure;
     width: 100%;
