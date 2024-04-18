@@ -8,11 +8,12 @@
     justify-content: space-between;
     align-items: center;
     padding: 20px;
+    height: 15px;
     background-color: #470ee1;
     color: #333;
 }
 .footer .copyright {
-    font-size: 14px;
+    font-size: 5px;
     margin-left: 10px;
 }
 .footer .social-icons {
