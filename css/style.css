@@ -13,15 +13,17 @@
     color: #333;
 }
 .footer .copyright {
-    font-size: 5px;
+    font-size: 14px;
     margin-left: 10px;
 }
-
+.footer .social-icons {
+    font-size: 18px;
+}
 .footer .social-icons a {
     color: #333;
     text-decoration: none;
     margin-right: 10px;
-	font-size: 10px;
+    font-size: 20px;
 }
 
 body{
